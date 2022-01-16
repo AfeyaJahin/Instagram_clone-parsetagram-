@@ -19,6 +19,7 @@
 		1819F97C27892FC700E17DA2 /* feedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1819F97B27892FC700E17DA2 /* feedViewController.swift */; };
 		1819F97E278956C200E17DA2 /* cameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1819F97D278956C200E17DA2 /* cameraViewController.swift */; };
 		1819F9802789693E00E17DA2 /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1819F97F2789693E00E17DA2 /* PostCell.swift */; };
+		1819F98227949C5300E17DA2 /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1819F98127949C5300E17DA2 /* CommentCell.swift */; };
 		30F9ECCEE0E0CE0791421944 /* Pods_Parsetragram.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 470C21A8BAFD72CA64A4AAEB /* Pods_Parsetragram.framework */; };
 /* End PBXBuildFile section */
 
@@ -57,6 +58,7 @@
 		1819F97B27892FC700E17DA2 /* feedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = feedViewController.swift; sourceTree = "<group>"; };
 		1819F97D278956C200E17DA2 /* cameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cameraViewController.swift; sourceTree = "<group>"; };
 		1819F97F2789693E00E17DA2 /* PostCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
+		1819F98127949C5300E17DA2 /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 		470C21A8BAFD72CA64A4AAEB /* Pods_Parsetragram.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Parsetragram.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D9CEDC5A54F8E1FCEACC86D1 /* Pods-Parsetragram.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Parsetragram.debug.xcconfig"; path = "Target Support Files/Pods-Parsetragram/Pods-Parsetragram.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -122,6 +124,7 @@
 				1819F97B27892FC700E17DA2 /* feedViewController.swift */,
 				1819F97D278956C200E17DA2 /* cameraViewController.swift */,
 				1819F97F2789693E00E17DA2 /* PostCell.swift */,
+				1819F98127949C5300E17DA2 /* CommentCell.swift */,
 			);
 			path = Parsetragram;
 			sourceTree = "<group>";
@@ -341,6 +344,7 @@
 				1819F97C27892FC700E17DA2 /* feedViewController.swift in Sources */,
 				1819F97A27892FB900E17DA2 /* loginViewController.swift in Sources */,
 				1819F9802789693E00E17DA2 /* PostCell.swift in Sources */,
+				1819F98227949C5300E17DA2 /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
